@@ -1,5 +1,7 @@
 # Accessibility Agents
 
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/OpenOS-Project-OSP/accessibility-agents) [![KDE Eco](https://img.shields.io/badge/KDE%20Eco-certified-brightgreen?logo=kde&logoColor=white&style=flat-square)](https://eco.kde.org/) [![Blue Angel](https://img.shields.io/badge/Blue%20Angel-DE--UZ%20215-0055a4?style=flat-square)](https://www.blauer-engel.de/en/certification/criteria)
+
 WCAG 2.2 AA enforcement for agentic coding, as a set of Agent Skills. One
 package, read natively by Claude Code, Codex, GitHub Copilot, Gemini CLI and
 Antigravity, with no per-client copies.
